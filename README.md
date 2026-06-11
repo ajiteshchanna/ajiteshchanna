@@ -128,9 +128,8 @@ This list changes. That's the point.
 
 I'm open to conversations about AI systems, internships, and projects worth building.
 
-- **LinkedIn** — [linkedin.com/in/ajiteshchanna](https://linkedin.com/in/ajiteshchanna) *(update with your URL)*
-- **X / Twitter** — [@ajiteshchanna](https://x.com/ajiteshchanna) *(update handle)*
-- **Portfolio** — *coming soon* *(replace with your URL when ready)*
+- **LinkedIn** — [linkedin.com/in/ajiteshchanna](https://linkedin.com/in/ajiteshchanna)
+- **X / Twitter** — [@ajiteshchanna](https://x.com/ajiteshchanna)
 
 ---
 
