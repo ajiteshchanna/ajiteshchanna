@@ -32,8 +32,6 @@ I'm early in my journey. But I try to approach problems the way a systems engine
 | Project | What it is |
 |---|---|
 | **SecureDocAI** | A document intelligence system focused on secure, auditable retrieval over sensitive corpora |
-| **RAG Evaluation Harness** | A personal framework for running controlled retrieval experiments and logging what changes behavior |
-| **Developer Scaffolding Tools** | Config-driven project generators that reduce setup friction for AI/ML workflows |
 
 These aren't production products yet. They're how I learn — by building systems with real constraints and measuring what breaks.
 
