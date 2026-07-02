@@ -1,140 +1,231 @@
-<!-- HERO BANNER -->
-<!-- Recommend a custom banner image (1280×320px, dark navy/charcoal background) with: -->
-<!-- Text: "Ajitesh Channa  ·  Applied AI Systems · Retrieval · Evaluation" -->
-<!-- Subtitle: "Building the infrastructure around intelligence." -->
-<!-- Font: Inter or Geist, clean weight contrast between name and subtitle -->
-<!-- You can generate this free on Canva, Figma, or banner.rscaffold.dev -->
+# <div align="center">👋 Hi, I'm Ajitesh Channa</div>
 
 <div align="center">
 
-# Ajitesh Channa
+### **Applied AI Systems • Conversational AI • Retrieval • Intelligent Products**
 
-**Applied AI Systems · Retrieval · Evaluation · Data Products**
-
-*I care more about how systems work than whether they technically run.*
+*Building AI systems that are reliable, explainable, and designed for real users.*
 
 </div>
 
 ---
 
-## Who I Am
+# About Me
 
-I'm a B.Tech student in Artificial Intelligence & Data Science at Gati Shakti Vishwavidyalaya, working toward a career at the intersection of AI engineering and practical product building.
+I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Gati Shakti Vishwavidyalaya**, passionate about transforming AI capabilities into practical software products.
 
-Most of what I build sits in the layer between raw models and real users — retrieval pipelines, evaluation frameworks, and tooling that makes AI systems measurable, reproducible, and actually useful. I'm drawn to the questions that don't have clean answers yet: *How do you know a RAG system is working? How do you design experiments that generalize? What makes an AI product trustworthy at the edges?*
+Rather than focusing only on training models, I'm interested in everything that surrounds them:
 
-I'm early in my journey. But I try to approach problems the way a systems engineer would — tracing behavior, questioning assumptions, and building things I can explain.
+* Retrieval Systems
+* Conversational AI
+* Recommendation Engines
+* Evaluation Frameworks
+* Developer Tooling
+* AI Product Engineering
 
----
+I enjoy asking questions like:
 
-## Currently Building
+* *How do we make AI systems trustworthy?*
+* *How do we evaluate whether they're actually working?*
+* *How do we design products where AI feels genuinely useful instead of gimmicky?*
 
-| Project | What it is |
-|---|---|
-| **SecureDocAI** | A document intelligence system focused on secure, auditable retrieval over sensitive corpora |
-
-These aren't production products yet. They're how I learn — by building systems with real constraints and measuring what breaks.
-
----
-
-## Featured Projects
-
-### [`SecureDocExperiments`](https://github.com/AjiteshChanna/SecureDocExperiments)
-A reproducible framework for experimenting with retrieval pipelines and RAG system design.
-
-The goal isn't a demo — it's a controlled environment. Every run is logged, every retrieval parameter is configurable, and every result is comparable against a baseline. Built because I wanted to understand *why* retrieval fails, not just whether it does.
-
-> `FAISS` · `LangChain` · `Python` · `Experiment Logging` · `Evaluation Design`
+I believe great AI products aren't built by models alone—they're built through thoughtful engineering, reliable infrastructure, and continuous experimentation.
 
 ---
 
-### [`CarbonChakra`](https://github.com/AjiteshChanna/CarbonChakra)
-A data product that translates personal carbon footprint data into actionable, personalized insights.
+# Currently Building
 
-The technical problem was straightforward. The harder problem was designing outputs that people actually change behavior from. That gap — between a working model and a useful product — is what this project taught me to think about.
+## 🕸️ Spidey Store
 
-> `Data Analysis` · `Streamlit` · `Product Design` · `Sustainability`
-
----
-
-### [`project-scaffold-agent`](https://github.com/AjiteshChanna/project-scaffold-agent)
-A developer tool that generates opinionated project structures from configuration files.
-
-Good tooling removes friction without removing control. This was built out of frustration with the repetitive parts of starting new AI/ML projects — and a belief that automation should be transparent and configurable, not magical.
-
-> `Python` · `CLI` · `Developer Experience` · `Automation`
+An AI-powered conversational commerce platform that combines structured retrieval, multi-turn memory, recommendation systems, and intelligent product search to create a natural shopping experience.
 
 ---
 
-## Engineering Philosophy
+## 📄 SecureDocAI
+
+A research-driven document intelligence framework exploring secure retrieval, evaluation pipelines, reproducibility, and Retrieval-Augmented Generation (RAG).
+
+---
+
+## 🛠️ Developer Tooling
+
+Building utilities that automate repetitive workflows and improve the developer experience through configurable, transparent tooling.
+
+---
+
+# Featured Projects
+
+## 🕸️ Spidey Store
+
+**AI-Powered Conversational Commerce**
+
+An intelligent shopping platform where users interact naturally with an AI assistant instead of traditional filters.
+
+**Highlights**
+
+* Conversational AI
+* Text-to-NoSQL Retrieval
+* Multi-turn Memory
+* Recommendation Engine
+* FastAPI Backend
+* MongoDB
+* Pydantic AI
+* Product-focused System Design
+
+---
+
+## 📄 SecureDocExperiments
+
+**Experimentation Framework for Retrieval Systems**
+
+A reproducible environment for evaluating retrieval pipelines and understanding why RAG systems succeed—or fail.
+
+Focus areas include:
+
+* Retrieval Evaluation
+* Experiment Logging
+* Configurable Pipelines
+* Benchmarking
+* AI Systems Research
+
+---
+
+## 🛠️ project-scaffold-agent
+
+**Developer Productivity Tool**
+
+A configurable CLI utility that generates structured project templates from JSON/YAML configurations.
+
+Designed to remove repetitive setup while keeping developers in complete control.
+
+---
+
+# Engineering Philosophy
+
+> **The model is rarely the bottleneck.**
+>
+> Reliable AI products emerge from thoughtful system design, high-quality retrieval, careful evaluation, and an obsession with solving real user problems.
+>
+> That's the layer of AI I'm most excited to build.
+
+---
+
+# Technical Stack
+
+## Languages
+
+* Python
+* Java
+* SQL
+* JavaScript
+
+---
+
+## AI & Data
+
+* Pandas
+* NumPy
+* Scikit-learn
+* FAISS
+* Sentence Transformers
+* LangChain
+* Pydantic AI
+
+---
+
+## Backend
+
+* FastAPI
+* REST APIs
+* MongoDB
+* Pydantic
+
+---
+
+## Engineering
+
+* Git
+* Docker
+* Streamlit
+* Uvicorn
+
+---
+
+## Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+# Areas I'm Exploring
+
+I'm continuously learning about:
+
+* Conversational AI
+* Retrieval-Augmented Generation (RAG)
+* AI Evaluation
+* Multi-Agent Systems
+* Recommendation Systems
+* Metadata-aware Retrieval
+* Experiment Design
+* AI Infrastructure
+
+---
+
+# Beyond Code
+
+I enjoy working at the intersection of technology and creativity.
+
+Outside engineering you'll often find me exploring:
+
+* Storytelling
+* Filmmaking
+* Product Design
+* Human-Centered AI
+* Writing
+
+I believe good engineers don't just build systems—they communicate ideas clearly.
+
+---
+
+# GitHub Activity
+
+<!-- GitHub Stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjiteshChanna\&show_icons=true\&hide=stars\&count_private=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshChanna\&layout=compact\&hide_border=true)
+
+---
+
+# Let's Connect
+
+I'm always happy to connect with people interested in:
+
+* Applied AI
+* Intelligent Systems
+* AI Engineering
+* Open Source
+* Building thoughtful products
+
+**LinkedIn**
+
+https://linkedin.com/in/ajiteshchanna
+
+**GitHub**
+
+https://github.com/ajiteshchanna
+
+**X (Twitter)**
+
+https://x.com/ajiteshchanna
+
+---
 
 <div align="center">
 
-*"The model is rarely the bottleneck.*
-*Retrieval quality, evaluation coverage, and system reliability usually are.*
-*I'm interested in building the infrastructure that makes AI systems trustworthy — not just impressive."*
-
-</div>
-
----
-
-## Stack I Actually Use
-
-I list tools I reach for regularly, not tools I've opened once.
-
-**Languages**
-`Python` · `SQL` · `Java`
-
-**AI & Data**
-`Pandas` · `Scikit-learn` · `FAISS` · `LangChain` · `Sentence Transformers`
-
-**Engineering**
-`FastAPI` · `Streamlit` · `Docker` · `Git`
-
-*Why this matters: a long tech stack signals surface-level exposure. A short one, used well, signals depth.*
-
----
-
-## What I'm Learning Right Now
-
-- **RAG Evaluation** — metrics beyond recall@k, and how to design test sets that surface real failure modes
-- **Metadata Filtering in Retrieval** — when to filter before embedding vs. after, and the tradeoffs
-- **Experiment Design for AI Systems** — controlling variables in pipelines that have stochastic components
-- **Prompt Engineering as Systems Thinking** — treating prompts as interfaces, not magic words
-
-This list changes. That's the point.
-
----
-
-## GitHub Activity
-
-<!-- Recommended widgets — minimal, meaningful -->
-
-<!-- 1. GitHub Stats Card: shows commits, PRs, issues — signals active building, not just repos -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjiteshChanna&show_icons=true&hide=stars&count_private=true&theme=default&hide_border=true&title_color=000000&text_color=555555)
-
-<!-- 2. Top Languages Card: narrow it to actual languages — meaningful signal for a technical reader -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshChanna&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&hide=jupyter%20notebook,html,css)
-
-<!-- What I'm intentionally NOT including: -->
-<!-- ✗ Visitor counters — vanity metric, adds no signal -->
-<!-- ✗ Trophy cards — performative, not informative -->
-<!-- ✗ Contribution streaks — punishes breaks, not a quality indicator -->
-<!-- ✗ Wakatime stats — exposes time, not value -->
-
----
-
-## Connect
-
-I'm open to conversations about AI systems, internships, and projects worth building.
-
-- **LinkedIn** — [linkedin.com/in/ajiteshchanna](https://linkedin.com/in/ajiteshchanna)
-- **X / Twitter** — [@ajiteshchanna](https://x.com/ajiteshchanna)
-
----
-
-<div align="center">
-
-*Building in public. Learning in the open.*
+### *Building systems. Sharing the journey. Learning in public.*
 
 </div>
