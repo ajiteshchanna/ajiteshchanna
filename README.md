@@ -2,91 +2,104 @@
 
 <div align="center">
 
-### **Applied AI Systems • Conversational AI • Retrieval • Intelligent Products**
+### **AI Engineer • Creative Technologist • Storyteller**
 
-*Building AI systems that are reliable, explainable, and designed for real users.*
+*I build intelligent systems, turn complex ideas into useful products, and explore where technology meets creativity.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ED1C24?style=for-the-badge&logo=vercel&logoColor=white)](https://ajitesh-portfolio-kohl.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajiteshchanna)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajiteshchanna)
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Gati Shakti Vishwavidyalaya**, passionate about transforming AI capabilities into practical software products.
+I'm a B.Tech student in **Artificial Intelligence & Data Science at Gati Shakti Vishwavidyalaya**, building toward a career in AI engineering and intelligent product development.
 
-Rather than focusing only on training models, I'm interested in everything that surrounds them:
+I enjoy working beyond the model itself — where **retrieval, evaluation, automation, backend systems, product engineering, and user experience** come together.
 
-* Retrieval Systems
-* Conversational AI
-* Recommendation Engines
-* Evaluation Frameworks
-* Developer Tooling
-* AI Product Engineering
+My current interests include:
 
-I enjoy asking questions like:
+- **AI Systems & RAG** — retrieval pipelines, document intelligence, evaluation, and grounded generation
+- **Conversational AI** — intelligent assistants, structured retrieval, memory, and recommendations
+- **AI Product Engineering** — turning models and workflows into usable software products
+- **Automation & Data** — Python automation, analytics workflows, validation, and reporting systems
+- **Creative Technology** — combining engineering with storytelling, filmmaking, design, and digital experiences
 
-* *How do we make AI systems trustworthy?*
-* *How do we evaluate whether they're actually working?*
-* *How do we design products where AI feels genuinely useful instead of gimmicky?*
+A question I keep coming back to:
 
-I believe great AI products aren't built by models alone—they're built through thoughtful engineering, reliable infrastructure, and continuous experimentation.
+> **How do we make AI systems genuinely useful — not just impressive in a demo?**
+
+I care about reliable systems, thoughtful architecture, measurable outcomes, and building technology that solves the right problem.
 
 ---
 
 # Currently Building
 
-## 🕸️ Spidey Store
+### 🕸️ Spidey Store
 
-An AI-powered conversational commerce platform that combines structured retrieval, multi-turn memory, recommendation systems, and intelligent product search to create a natural shopping experience.
+An AI-powered conversational commerce platform combining **structured retrieval, multi-turn memory, recommendation systems, and intelligent product search** to create a more natural shopping experience.
 
----
+### 📄 SecureDocAI
 
-## 📄 SecureDocAI
+A privacy-first document intelligence framework exploring **offline retrieval, OCR, semantic chunking, FAISS-based search, evaluation, and evidence-aware question answering**.
 
-A research-driven document intelligence framework exploring secure retrieval, evaluation pipelines, reproducibility, and Retrieval-Augmented Generation (RAG).
+### 🛠️ AI & Developer Automation
 
----
-
-## 🛠️ Developer Tooling
-
-Building utilities that automate repetitive workflows and improve the developer experience through configurable, transparent tooling.
+Building utilities and automation workflows for **validation, testing, reporting, and repetitive engineering tasks**, while exploring practical Agentic AI workflows.
 
 ---
 
 # Featured Projects
 
+## 📄 SecureDocAI
+
+**Offline Document Intelligence • RAG • Retrieval Evaluation**
+
+A research-driven document intelligence system designed to query sensitive documents locally without cloud dependency.
+
+**Focus**
+
+- Offline-first RAG
+- OCR + document parsing
+- Semantic chunking
+- FAISS retrieval
+- Evidence-aware answering
+- Retrieval evaluation
+- Reproducible experiments
+
+**Stack:** Python • FAISS • Transformers • FastAPI • Docker
+
+---
+
 ## 🕸️ Spidey Store
 
 **AI-Powered Conversational Commerce**
 
-An intelligent shopping platform where users interact naturally with an AI assistant instead of traditional filters.
+A conversational shopping platform where users interact naturally with an AI assistant instead of relying only on traditional filters.
 
 **Highlights**
 
-* Conversational AI
-* Text-to-NoSQL Retrieval
-* Multi-turn Memory
-* Recommendation Engine
-* FastAPI Backend
-* MongoDB
-* Pydantic AI
-* Product-focused System Design
+- Conversational AI
+- Structured product retrieval
+- Text-to-NoSQL search
+- Multi-turn memory
+- Recommendation engine
+- Explainable recommendations
+- FastAPI + MongoDB
+- Pydantic AI
 
 ---
 
-## 📄 SecureDocExperiments
+## 🟢 AttendanceIQ
 
-**Experimentation Framework for Retrieval Systems**
+**Full-Stack Attendance & Analytics Platform**
 
-A reproducible environment for evaluating retrieval pipelines and understanding why RAG systems succeed—or fail.
+A classroom and lab attendance platform with **OTP-based verification, session-aware attendance, enrollment controls, analytics dashboards, CSV exports, and automated workflows**.
 
-Focus areas include:
-
-* Retrieval Evaluation
-* Experiment Logging
-* Configurable Pipelines
-* Benchmarking
-* AI Systems Research
+**Stack:** FastAPI • React • Vite • Tailwind CSS • Supabase • PostgreSQL • Pandas
 
 ---
 
@@ -94,138 +107,131 @@ Focus areas include:
 
 **Developer Productivity Tool**
 
-A configurable CLI utility that generates structured project templates from JSON/YAML configurations.
+A configurable CLI utility that generates structured project templates from JSON/YAML configurations, reducing repetitive setup while keeping developers in control.
 
-Designed to remove repetitive setup while keeping developers in complete control.
+**Stack:** Python • CLI • JSON/YAML • Automation
+
+---
+
+# Experience
+
+### Siemens — Technical Intern, Enterprise Analytics
+**Pune, India • May 2026 — August 2026**
+
+Worked across **Power BI, dashboard engineering, automation, data workflows, and AI-assisted analytics**.
+
+- Contributed to migration of legacy Spotfire dashboards to Power BI.
+- Implemented custom JSON themes, dynamic navigation, synchronized/cascading slicers, bookmark-driven interactions, and reusable reporting components.
+- Designed automation utilities and validation/testing frameworks for repetitive analytics and data-engineering tasks.
+- Explored AI and Agentic AI workflows for AI-assisted analytics and engineering processes.
+
+### Delhi Metro Rail Corporation (DMRC) — Engineering Intern
+**India • 2024**
+
+Worked within DMRC's IT environment across transportation-focused digital initiatives.
+
+- Developed a Python-based pilot for **automating metro trip charting** using OOP and algorithmic logic.
+- Reduced estimated manual trip-charting effort from approximately **5 hours to around 2 hours** for a pilot covering **3 stations and 2 metro trains**.
+- Contributed to an **Indoor Navigation System** for Blocks A and B of the DMRC Academy.
+- The navigation solution was subsequently **deployed at the DMRC Academy** and featured in its publication/magazine.
 
 ---
 
 # Engineering Philosophy
 
-> **The model is rarely the bottleneck.**
+> **The model is only one part of the system.**
 >
-> Reliable AI products emerge from thoughtful system design, high-quality retrieval, careful evaluation, and an obsession with solving real user problems.
+> Reliable AI products emerge from strong architecture, high-quality retrieval, careful evaluation, useful interfaces, and continuous experimentation.
 >
-> That's the layer of AI I'm most excited to build.
+> I'm most interested in the engineering layer that turns AI capabilities into systems people can actually depend on.
 
 ---
 
 # Technical Stack
 
-## Languages
+### Languages
 
-* Python
-* Java
-* SQL
-* JavaScript
+Python • Java • SQL • JavaScript • HTML • CSS
 
----
+### AI / ML / Retrieval
 
-## AI & Data
+RAG • LLMs • Transformers • FAISS • Sentence Transformers • Scikit-learn • LangChain • Pydantic AI • Pandas • NumPy
 
-* Pandas
-* NumPy
-* Scikit-learn
-* FAISS
-* Sentence Transformers
-* LangChain
-* Pydantic AI
+### Backend & Data
 
----
+FastAPI • REST APIs • PostgreSQL • Supabase • MongoDB • Pydantic • Uvicorn
 
-## Backend
+### Frontend & Product
 
-* FastAPI
-* REST APIs
-* MongoDB
-* Pydantic
+React • Next.js • Vite • Tailwind CSS • Framer Motion
+
+### Engineering & Tools
+
+Git • GitHub • Docker • Power BI • JSON • Automation • Testing & Validation
 
 ---
 
-## Engineering
+# Leadership & Recognition
 
-* Git
-* Docker
-* Streamlit
-* Uvicorn
-
----
-
-## Frontend
-
-* HTML
-* CSS
-* JavaScript
+- **Co-Coordinator — Drama Club, GSV:** Coordinated and directed stage plays and reel-film activities.
+- **Organizing Team — Hult Prize GSV:** Supported event coordination, logistics, and participant engagement.
+- **Semi-Finalist — ET GenAI Hackathon:** Advanced to the semi-final round of the Economic Times GenAI Hackathon.
+- **Indian Air Force Workshop:** Conducted a Power BI workshop for **40+ Indian Air Force officers**, focused on data visualization and analytical dashboard development.
 
 ---
 
-# Areas I'm Exploring
+# Certifications
 
-I'm continuously learning about:
-
-* Conversational AI
-* Retrieval-Augmented Generation (RAG)
-* AI Evaluation
-* Multi-Agent Systems
-* Recommendation Systems
-* Metadata-aware Retrieval
-* Experiment Design
-* AI Infrastructure
+- **NVIDIA:** Fundamentals of Deep Learning
+- **NVIDIA:** Computer Vision for Industrial Inspection (2025)
+- **IBM:** AI Fundamentals
+- **IBM:** Prompt Engineering for Everyone
+- **Coursera:** Supervised Machine Learning
 
 ---
 
 # Beyond Code
 
-I enjoy working at the intersection of technology and creativity.
+Engineering is one side of what I do. The other side is storytelling.
 
-Outside engineering you'll often find me exploring:
+I'm interested in:
 
-* Storytelling
-* Filmmaking
-* Product Design
-* Human-Centered AI
-* Writing
+- 🎬 Filmmaking & visual storytelling
+- ✍️ Writing & narrative design
+- 🎭 Theatre & performance
+- 🧠 Human-centered AI
+- 🎨 Creative technology & digital experiences
 
-I believe good engineers don't just build systems—they communicate ideas clearly.
+I like working where **technical systems and human stories overlap**.
 
 ---
 
 # GitHub Activity
 
-<!-- GitHub Stats -->
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjiteshChanna\&show_icons=true\&hide=stars\&count_private=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjiteshChanna&show_icons=true&hide=stars&count_private=true&hide_border=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshChanna\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshChanna&layout=compact&hide_border=true&theme=dark)
+
+</div>
 
 ---
 
 # Let's Connect
 
-I'm always happy to connect with people interested in:
+I'm always open to conversations around **AI engineering, intelligent systems, automation, creative technology, research, and thoughtful product development**.
 
-* Applied AI
-* Intelligent Systems
-* AI Engineering
-* Open Source
-* Building thoughtful products
-
-**LinkedIn**
-
-https://linkedin.com/in/ajiteshchanna
-
-**GitHub**
-
-https://github.com/ajiteshchanna
-
-**X (Twitter)**
-
-https://x.com/ajiteshchanna
+- **Portfolio:** https://ajitesh-portfolio-kohl.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/ajiteshchanna
+- **GitHub:** https://github.com/ajiteshchanna
+- **X:** https://x.com/ajiteshchanna
+- **Email:** ac.ajiteshchanna@gmail.com
 
 ---
 
 <div align="center">
 
-### *Building systems. Sharing the journey. Learning in public.*
+### *Building systems. Telling stories. Learning in public.*
 
 </div>
