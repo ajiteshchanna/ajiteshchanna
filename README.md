@@ -210,9 +210,13 @@ I like working where **technical systems and human stories overlap**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjiteshChanna&show_icons=true&hide=stars&count_private=true&hide_border=true&theme=dark)
+[![Repositories](https://img.shields.io/badge/Repositories-39-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjiteshChanna?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/AjiteshChanna?style=for-the-badge&logo=github&logoColor=white&label=Stars)](https://github.com/AjiteshChanna?tab=stars)
+[![Followers](https://img.shields.io/github/followers/AjiteshChanna?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/AjiteshChanna)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjiteshChanna&layout=compact&hide_border=true&theme=dark)
+**39 repositories · Open-source projects · Continuous experimentation**
+
+[**→ Explore my repositories**](https://github.com/AjiteshChanna?tab=repositories)
 
 </div>
 
