@@ -18,7 +18,7 @@
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science at Gati Shakti Vishwavidyalaya**, building toward a career in AI engineering and intelligent product development.
 
-I enjoy working beyond the model itself — where **retrieval, evaluation, automation, backend systems, product engineering, and user experience** come together.
+I enjoy working beyond the model itself — where **retrieval, evaluation, backend systems, product engineering, automation, and user experience** come together.
 
 My current interests include:
 
@@ -36,80 +36,106 @@ I care about reliable systems, thoughtful architecture, measurable outcomes, and
 
 ---
 
-# Currently Building
-
-### 🕸️ Spidey Store
-
-An AI-powered conversational commerce platform combining **structured retrieval, multi-turn memory, recommendation systems, and intelligent product search** to create a more natural shopping experience.
-
-### 📄 SecureDocAI
-
-A privacy-first document intelligence framework exploring **offline retrieval, OCR, semantic chunking, FAISS-based search, evaluation, and evidence-aware question answering**.
-
-### 🛠️ AI & Developer Automation
-
-Building utilities and automation workflows for **validation, testing, reporting, and repetitive engineering tasks**, while exploring practical Agentic AI workflows.
-
----
-
 # Featured Projects
 
-## 📄 SecureDocAI
+<div align="center">
 
-**Offline Document Intelligence • RAG • Retrieval Evaluation**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A research-driven document intelligence system designed to query sensitive documents locally without cloud dependency.
-
-**Focus**
-
-- Offline-first RAG
-- OCR + document parsing
-- Semantic chunking
-- FAISS retrieval
-- Evidence-aware answering
-- Retrieval evaluation
-- Reproducible experiments
-
-**Stack:** Python • FAISS • Transformers • FastAPI • Docker
-
----
-
-## 🕸️ Spidey Store
+### 🕸️ [Spidey Store](https://github.com/ajiteshchanna/Spidey-Store)
 
 **AI-Powered Conversational Commerce**
 
-A conversational shopping platform where users interact naturally with an AI assistant instead of relying only on traditional filters.
+An AI-powered shopping experience combining **conversational search, structured product retrieval, multi-turn memory, recommendations, and explainable results**.
 
-**Highlights**
+**Stack:** Next.js • TypeScript • Tailwind CSS • FastAPI • MongoDB • Pydantic AI
 
-- Conversational AI
-- Structured product retrieval
-- Text-to-NoSQL search
-- Multi-turn memory
-- Recommendation engine
-- Explainable recommendations
-- FastAPI + MongoDB
-- Pydantic AI
+</td>
+<td width="50%" valign="top">
+
+### 📄 [SecureDocAI](https://github.com/ajiteshchanna/SecureDocSLMAI)
+
+**Offline Document Intelligence • RAG**
+
+A privacy-first document intelligence framework exploring **offline retrieval, OCR, semantic chunking, FAISS-based search, evaluation, and evidence-aware question answering**.
+
+**Stack:** Python • FAISS • Transformers • RAG • LLMs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ [WorkFlower](https://github.com/ajiteshchanna/WorkFlower)
+
+**Intelligent Workflow Automation**
+
+A workflow automation MVP for **file organization, live monitoring, duplicate/conflict handling, rollback, and reporting**.
+
+**Stack:** Python • Automation • File Watchdog • Validation
+
+</td>
+<td width="50%" valign="top">
+
+### 🚆 [Crowd Management in Indian Railways](https://github.com/ajiteshchanna/AI-ML-Driven-Crowd-Management-In-Indian-Railways)
+
+**AI/ML • Computer Vision • Transportation**
+
+An AI/ML system focused on **crowd analysis, prediction, and intelligent crowd management** in Indian Railway environments.
+
+**Stack:** Python • Machine Learning • Computer Vision
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [ecom-pydantic-ai](https://github.com/ajiteshchanna/ecom-pydantic-ai)
+
+**Conversational Commerce Backend**
+
+A conversational commerce backend combining **Pydantic AI, FastAPI, MongoDB, structured retrieval, memory, and recommendations**.
+
+**Stack:** FastAPI • MongoDB • Pydantic AI • Python
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [SaarAI](https://github.com/ajiteshchanna/SaarAI)
+
+**AI Assistant & Intelligent Interaction**
+
+An AI assistant project exploring **knowledge retrieval, intelligent interactions, and practical AI workflows**.
+
+**Stack:** Python • RAG • LLMs
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🟢 AttendanceIQ
+# Currently Building
 
-**Full-Stack Attendance & Analytics Platform**
+### 🎧 [Wrapped IT](https://github.com/ajiteshchanna/WrappedIT) · **NEW**
 
-A classroom and lab attendance platform with **OTP-based verification, session-aware attendance, enrollment controls, analytics dashboards, CSV exports, and automated workflows**.
+**Spotify Wrapped — But Smarter.**
 
-**Stack:** FastAPI • React • Vite • Tailwind CSS • Supabase • PostgreSQL • Pandas
+An AI-powered music analyst that goes beyond listening statistics to uncover **music personality, listening patterns, recommendations, and narrative insights** from Spotify data.
 
----
+**Stack:** Python • Gemini API • Spotify API • FastAPI
 
-## 🛠️ project-scaffold-agent
+### 🤖 SaarAI
 
-**Developer Productivity Tool**
+Building an AI assistant focused on **smarter interactions, knowledge retrieval, and practical task automation**.
 
-A configurable CLI utility that generates structured project templates from JSON/YAML configurations, reducing repetitive setup while keeping developers in control.
+### 🎯 Radar
 
-**Stack:** Python • CLI • JSON/YAML • Automation
+Exploring intelligent **monitoring, alerts, and automated insights** for real-world scenarios.
 
 ---
 
@@ -210,11 +236,11 @@ I like working where **technical systems and human stories overlap**.
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/Repositories-39-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjiteshChanna?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjiteshChanna?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/AjiteshChanna?style=for-the-badge&logo=github&logoColor=white&label=Stars)](https://github.com/AjiteshChanna?tab=stars)
 [![Followers](https://img.shields.io/github/followers/AjiteshChanna?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/AjiteshChanna)
 
-**39 repositories · Open-source projects · Continuous experimentation**
+**AI projects · Open-source experiments · Continuous building**
 
 [**→ Explore my repositories**](https://github.com/AjiteshChanna?tab=repositories)
 
