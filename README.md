@@ -68,48 +68,13 @@ A privacy-first document intelligence framework exploring **offline retrieval, O
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ [WorkFlower](https://github.com/ajiteshchanna/WorkFlower)
+### 📊 [AttendanceIQ](https://github.com/ajiteshchanna/smart-attendance-system)
 
-**Intelligent Workflow Automation**
+**Full-Stack Attendance & Analytics Platform**
 
-A workflow automation MVP for **file organization, live monitoring, duplicate/conflict handling, rollback, and reporting**.
+A classroom and lab attendance platform with **OTP-based verification, session-aware attendance, enrollment controls, analytics dashboards, and CSV export workflows**.
 
-**Stack:** Python • Automation • File Watchdog • Validation
-
-</td>
-<td width="50%" valign="top">
-
-### 🚆 [Crowd Management in Indian Railways](https://github.com/ajiteshchanna/AI-ML-Driven-Crowd-Management-In-Indian-Railways)
-
-**AI/ML • Computer Vision • Transportation**
-
-An AI/ML system focused on **crowd analysis, prediction, and intelligent crowd management** in Indian Railway environments.
-
-**Stack:** Python • Machine Learning • Computer Vision
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [ecom-pydantic-ai](https://github.com/ajiteshchanna/ecom-pydantic-ai)
-
-**Conversational Commerce Backend**
-
-A conversational commerce backend combining **Pydantic AI, FastAPI, MongoDB, structured retrieval, memory, and recommendations**.
-
-**Stack:** FastAPI • MongoDB • Pydantic AI • Python
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [SaarAI](https://github.com/ajiteshchanna/SaarAI)
-
-**AI Assistant & Intelligent Interaction**
-
-An AI assistant project exploring **knowledge retrieval, intelligent interactions, and practical AI workflows**.
-
-**Stack:** Python • RAG • LLMs
+**Stack:** FastAPI • React • Vite • Tailwind CSS • Supabase • PostgreSQL
 
 </td>
 </tr>
@@ -129,13 +94,11 @@ An AI-powered music analyst that goes beyond listening statistics to uncover **m
 
 **Stack:** Python • Gemini API • Spotify API • FastAPI
 
-### 🤖 SaarAI
+### 🎵 [GeetKaar](https://github.com/ajiteshchanna/GeetKaar)
 
-Building an AI assistant focused on **smarter interactions, knowledge retrieval, and practical task automation**.
+**Creative Technology & Music**
 
-### 🎯 Radar
-
-Exploring intelligent **monitoring, alerts, and automated insights** for real-world scenarios.
+A new project exploring the intersection of **music, technology, and creative expression**.
 
 ---
 
