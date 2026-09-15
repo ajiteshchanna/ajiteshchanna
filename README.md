@@ -77,6 +77,19 @@ A classroom and lab attendance platform with **OTP-based verification, session-a
 **Stack:** FastAPI • React • Vite • Tailwind CSS • Supabase • PostgreSQL
 
 </td>
+<td width="50%" valign="top">
+
+### 🩺 [ThyroLensAI](https://github.com/ajiteshchanna/ThyroLensAI)
+
+**Medical Image Classification • Explainable AI**
+
+A research and educational AI decision-support prototype for binary thyroid image classification, combining **FibonacciNet, Grad-CAM explainability, image-quality checks, input-similarity screening, probability calibration, and technical reliability assessment**.
+
+**Stack:** Python • FastAPI • Streamlit • TensorFlow • Grad-CAM • Explainable AI
+
+*Research prototype; not clinically validated or intended for standalone diagnosis.*
+
+</td>
 </tr>
 </table>
 
@@ -99,6 +112,16 @@ An AI-powered music analyst that goes beyond listening statistics to uncover **m
 **Creative Technology & Music**
 
 A new project exploring the intersection of **music, technology, and creative expression**.
+
+---
+
+# Upcoming Projects
+
+### 🚆 [TRCAnalysis](https://github.com/ajiteshchanna/TRCAnalysis)
+
+**Railway Operations • Data Analysis • Intelligent Insights**
+
+An upcoming project focused on analyzing **Train Running Chart data** to derive operational insights, identify patterns, and support more informed railway decision-making.
 
 ---
 
