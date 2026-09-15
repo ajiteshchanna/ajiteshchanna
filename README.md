@@ -113,15 +113,11 @@ An AI-powered music analyst that goes beyond listening statistics to uncover **m
 
 A new project exploring the intersection of **music, technology, and creative expression**.
 
----
-
-# Upcoming Projects
-
 ### 🚆 [TRCAnalysis](https://github.com/ajiteshchanna/TRCAnalysis)
 
 **Railway Operations • Data Analysis • Intelligent Insights**
 
-An upcoming project focused on analyzing **Train Running Chart data** to derive operational insights, identify patterns, and support more informed railway decision-making.
+A project focused on analyzing **Train Running Chart data** to derive operational insights, identify patterns, and support more informed railway decision-making.
 
 ---
 
