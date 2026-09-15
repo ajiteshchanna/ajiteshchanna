@@ -134,7 +134,7 @@ Worked across **Power BI, dashboard engineering, automation, data workflows, and
 - Explored AI and Agentic AI workflows for AI-assisted analytics and engineering processes.
 
 ### Delhi Metro Rail Corporation (DMRC) — Engineering Intern
-**India • 2024**
+**India • 2025**
 
 Worked within DMRC's IT environment across transportation-focused digital initiatives.
 
